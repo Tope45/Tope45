@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Power BI project
-- 🌱 I’m currently learning how to use excel
-- 👯 I’m looking to collaborate on POwer Bi
+####🔭 I’m currently working on a Power BI project
+####🌱 I’m currently learning how to use excel
+####👯 I’m looking to collaborate on POwer Bi
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love skydiving.
+####😄 Pronouns: He/Him
+####⚡ Fun fact: I love skydiving.
 -->
